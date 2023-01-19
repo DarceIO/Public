@@ -1,3 +1,3 @@
 # Public Repository
 
-Public Samples
+Public Samples of Code & Concepts
